@@ -34,6 +34,6 @@ module.exports = class {
                 })
             }
             latestPurse = currentPurse
-        }, 30000)
+        }, 1000)
     }
 }
